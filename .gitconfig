@@ -1,0 +1,18 @@
+[core]
+	editor = C:\\Users\\tsubaki\\Dropbox\\Apps\\Notepad++\\notepad++.exe
+	quotepath = false
+	autocrlf = true
+	excludesfile = D:\\git\\gitignore_global.txt
+[user]
+	email = dev.tsubaki@gmail.com
+	name = Dev Tsubaki
+[push]
+	default = upstream
+[alias]
+	co = checkout
+	br = branch
+	st = status
+	ph = push origin master
+[gui]
+[gui]
+	recentrepo = D:/xampp/htdocs/public_html/tw_connect_php_2
