@@ -1,5 +1,6 @@
-﻿export PS1='[\w]\$ '
-export TERM=msys
+export TERM=vt100
+#export PS1='[\w]\$ '
+#export TERM=msys
 
 ##### alias #####
 
